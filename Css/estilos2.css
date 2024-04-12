@@ -139,6 +139,12 @@ img {
     font-weight: bold;
     }
 
+    .subtitulo{
+    color: #f37885;
+    font-size: 20px;
+    font-weight: lighter;
+    }
+
   
   @keyframes fade {
       from {opacity: .4}
