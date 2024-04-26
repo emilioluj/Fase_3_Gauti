@@ -1,6 +1,6 @@
 $(document).ready(main);
 
-var contador = 1;
+var contador = 0;
 
 function main () {
 	$('.menu_bar').click(function(){
