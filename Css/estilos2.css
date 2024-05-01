@@ -135,6 +135,15 @@ img {
     background-color: #efefea;
   }
   
+  .link{
+    color: #f37885;
+    font-size: 20px;
+    font-weight: bold;
+    }
+
+    .link:hover {
+      color:#c44854;
+  }
     /*.image{
     margin: 0 auto;
     }*/
