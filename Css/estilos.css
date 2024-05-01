@@ -187,14 +187,18 @@ nav {
     align-items: center;
 }
 
-.container{
-padding-left: 16px;
-padding-right: 16px;
-}
-.card {
-    flex-direction: column;
+    .container{
+    padding-left: 16px;
+    padding-right: 16px;
     }
-  
+    .card {
+    flex-direction: column;
+    width: calc(100% - 32px);
+    }
+      #lista1{
+      font-size: 16px;
+      }
+
     nav a {
       display: flex ;
       flex-direction: column;
