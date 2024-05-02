@@ -137,13 +137,14 @@ img {
   }
   
   .link{
-    color: #f37885;
+    color: #000000;
     font-size: 20px;
-    font-weight: bold;
+    font-weight: normal;
     }
 
     .link:hover {
-      color:#c44854;
+      color:#f37885;
+      font-weight: bold;
   }
     /*.image{
     margin: 0 auto;
