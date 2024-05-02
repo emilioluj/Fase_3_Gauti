@@ -139,12 +139,12 @@ img {
   .link{
     color: #000000;
     font-size: 20px;
-    font-weight: normal;
+    font-weight: bold;
     }
 
     .link:hover {
       color:#f37885;
-      font-weight: bold;
+      font-weight: bolder;
   }
     /*.image{
     margin: 0 auto;
