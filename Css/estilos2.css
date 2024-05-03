@@ -144,8 +144,9 @@ img {
   
   .link{
     color: #000000;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
+    text-align: left;
     }
 
     .link:hover {
@@ -158,14 +159,17 @@ img {
   
     .titulo{
     color: #000000;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
+    text-align: left;
+    margin: 0;
     }
 
     .subtitulo{
     color: #000000;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: normal;
+    text-align: left;
     }
 
   
