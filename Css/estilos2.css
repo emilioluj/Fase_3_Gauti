@@ -144,7 +144,7 @@ img {
   
   .link{
     color: #000000;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
     text-align: left;
     }
@@ -159,7 +159,7 @@ img {
   
     .titulo{
     color: #000000;
-    font-size: 24px;
+    font-size: 30px;
     font-weight: bold;
     text-align: left;
     margin: 0;
@@ -167,7 +167,7 @@ img {
 
     .subtitulo{
     color: #000000;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: normal;
     text-align: left;
     }
@@ -192,6 +192,18 @@ img {
     max-width: 100%;
     height: auto;
   }
+
+  .link{
+    font-size: 18px;
+    }
+
+  .titulo{
+    font-size: 24px;
+    }
+
+    .subtitulo{
+    font-size: 16px;
+    }
 
   .image{
     width: 100%;
